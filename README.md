@@ -1,2 +1,3 @@
 # odin-recipes
-<!--this project will most likely be using everything i learned so far>
+made a three page website using html and used links,images,lists,headers and paragraphs using different types of writing and a home link on both recipes pages
+
